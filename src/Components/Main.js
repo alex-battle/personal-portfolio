@@ -5,11 +5,12 @@ import Contact from './Contact';
 import Projects from './Projects';
 import About from './About';
 import Home from './Home';
+import Footer from './Footer';
 
 function Main(){
     return(
         <div>
-            <div className='navBar'>
+            <div className="navBar">
             <Nav />
             </div>
             <div>
@@ -17,6 +18,9 @@ function Main(){
                 <Route exact path='/about'><About/></Route>
                 <Route exact path='/projects'><Projects/></Route>
                 <Route exact path='/contact'><Contact/></Route>
+            </div>
+            <div className='footer'>
+                {/* <Footer /> */}
             </div>
 
         </div>

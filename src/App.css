@@ -6,7 +6,112 @@
   height: 40vmin;
   pointer-events: none;
 }
+body{
+  background-color: black;
+}
+.navBar{
+  display: flex;
+  /* flex-direction: row; */
+  background-color: black;
+  height: 7rem;
+}
+.nav{
+  display: flex;
+  width: 100%;
+  position: fixed;
+}
+.navBarLeft{
+  font-size: 4rem;
+  align-self: center;
+  margin-left: 2.5rem;
+  color: lightgray;
+  font-family: 'Abril Fatface', cursive;
 
+}
+.navBarLeft a{
+  text-decoration: none;
+  color: white;
+}
+.navBarRight{
+  display: flex;
+  float:right;
+  align-items: center;
+  margin-left: 50rem;
+  justify-content: space-around;
+  color: lightgray;
+  font-family: 'Noto Serif TC', serif;
+}
+.navBarRight a{
+  color: white;
+  text-decoration: none;
+}
+.homeSecondBanner{
+  background-image: url('https://66.media.tumblr.com/dd94056aafbe370f2787e7d02b3bcf01/tumblr_oos9r3fvwZ1w0qmx4o1_1280.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  color: white;
+  height: 34rem;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  font-family: 'Noto Serif', serif;
+  font-size: 6rem;
+  justify-content: center;
+}
+.whoAmI{
+  font-family: 'Playfair Display', serif;
+  justify-content: center;
+  align-self: center;
+  margin-bottom: 2rem;
+  color: white;
+}
+.secondBannerDescription{
+  margin-left: 5rem;
+  margin-right: 5rem;
+  font-family: 'Noto Serif TC', serif;
+  font-size: 1.3rem;
+  display: flex;
+  align-items: center;
+  color: lightgray
+}
+.aboutMeButtonHolder{
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.languages{
+background-color: rgb(245, 245, 245);
+height: 30rem;
+display: flex;
+margin-top: 4rem;
+}
+.techBanner{
+  background-image: url('https://66.media.tumblr.com/13e4cd1feb2e1e61d2a3e9f070fcabea/tumblr_o0k18h8M3q1s59cxeo1_1280.jpg');
+  background-position: center;
+  background-size:cover;
+  background-repeat: no-repeat;
+  color: black;
+  width: 20rem;
+  display: flex;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+.techBannerTitle{
+  display:flex;
+  justify-content: center;
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 3rem;
+  text-align: center;
+  align-items: center;
+}
+.languageIcons{
+  display:flex;
+  align-items: center;
+  text-align: center;
+  font-family: 'Noto Serif TC', serif;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

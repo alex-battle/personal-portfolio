@@ -12,7 +12,7 @@ body{
 .navBar{
   display: flex;
   /* flex-direction: row; */
-  background-color: black;
+  background-color: white;
   height: 20%;
   position: fixed;
   width: 100%;
@@ -26,13 +26,13 @@ body{
   font-size: 4rem;
   align-self: center;
   margin-left: 2.5rem;
-  color: lightgray;
+  color: black;
   font-family: 'Abril Fatface', cursive;
 
 }
 .navBarLeft a{
   text-decoration: none;
-  color: white;
+  color: black;
 }
 .navBarRight{
   display: flex;
@@ -41,11 +41,11 @@ body{
   /* margin-left: 50rem; */
   margin-right: 3rem;
   justify-content: space-around;
-  color: lightgray;
+  color: black;
   font-family: 'Noto Serif TC', serif;
 }
 .navBarRight a{
-  color: white;
+  color: black;
   text-decoration: none;
 }
 .mainBanner{
@@ -128,11 +128,13 @@ body{
 }
 .projectsTitle{
   color: white;
+  background-color: rgb(70, 109, 60);
   font-family: 'Playfair Display', serif;
   font-size: 4rem;
   font-weight: 200;
   display: flex;
   align-items: center;
+  align-self: center;
 }
 .featuredProjectTitle{
   color:white;

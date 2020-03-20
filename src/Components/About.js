@@ -14,6 +14,7 @@ function About(){
             <AboutMeDescription />
             <AboutResume/>
             <AboutContact/>
+            
         </div>
     )
 }

@@ -10,7 +10,7 @@ function Nav(){
             <div className="navBarRight">
             <NavLink to="/about">About</NavLink>
             <NavLink to="/projects">Projects</NavLink>
-            <NavLink to="/contact">Contact Me</NavLink>
+            {/* <NavLink to="/contact">Contact Me</NavLink> */}
             </div>
         </div>
     )

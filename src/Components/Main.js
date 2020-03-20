@@ -2,7 +2,7 @@ import React from 'react';
 import {Route} from 'react-router-dom'
 import Nav from './Nav'
 import Contact from './Contact';
-import Projects from './Projects';
+import ProjectPage from './ProjectPage';
 import About from './About';
 import Home from './Home';
 import Footer from './Footer';
@@ -16,7 +16,7 @@ function Main(){
             <div>
                 <Route exact path='/'><Home/></Route>
                 <Route exact path='/about'><About/></Route>
-                <Route exact path='/projects'><Projects/></Route>
+                <Route exact path='/projects'><ProjectPage/></Route>
                 <Route exact path='/contact'><Contact/></Route>
             </div>
             <div className='footer'>

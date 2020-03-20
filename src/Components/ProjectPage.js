@@ -3,6 +3,7 @@ import ProjectOne from './ProjectOne'
 import ProjectTwo from './ProjectTwo';
 import ProjectThree from './ProjectThree';
 import ProjectPageBanner from './ProjectPageBanner';
+import AboutContact from './AboutContact';
 
 function Projects(){
     return(
@@ -11,6 +12,7 @@ function Projects(){
             <ProjectOne />
             <ProjectTwo />
             <ProjectThree />
+            <AboutContact />
         </div>
     )
 }

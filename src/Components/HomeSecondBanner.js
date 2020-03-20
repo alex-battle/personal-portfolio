@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from 'react-router-dom'
 
 function HomeSecondBanner(){
     return(
@@ -24,7 +25,9 @@ function HomeSecondBanner(){
             to put them to use in new ways. 
             </div>
             <div className="aboutMeButtonHolder">
+            <Link to="/about">
             <button type="button">Learn More</button>
+            </Link>
             </div>
         </div>
     )

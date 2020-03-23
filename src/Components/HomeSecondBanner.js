@@ -26,7 +26,7 @@ function HomeSecondBanner(){
             </div>
             <div className="aboutMeButtonHolder">
             <Link to="/about">
-            <button type="button">Learn More</button>
+            <button>Learn More</button>
             </Link>
             </div>
         </div>

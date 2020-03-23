@@ -5,11 +5,11 @@ function Nav(){
     return(
         <div className='nav'>
             <div className="navBarLeft">
-            <NavLink to="/">Alex</NavLink>
+            <a href="/">Alex</a>
             </div>
             <div className="navBarRight">
-            <NavLink to="/about">About Me</NavLink>
-            <NavLink to="/projects">Projects</NavLink>
+            <a href="/about">About Me</a>
+            <a href="/projects">Projects</a>
             </div>
         </div>
     )

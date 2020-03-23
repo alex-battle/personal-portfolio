@@ -356,11 +356,13 @@ margin-top: 4rem;
   justify-content: flex-end;
   justify-content: space-evenly;
 }
-
 .projectLinks a{
   color: lightgray;
   text-decoration: none;
   margin-top: 3rem;
+}
+.projectlink{
+  margin-top: 1.5rem;
 }
 button{
   background-color: black;
@@ -370,6 +372,7 @@ button{
   border-color: white;
   font-size: 1rem;
   font-family: 'Noto Serif TC', serif;
+  margin-bottom: 1.5rem;
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

@@ -16,6 +16,7 @@ body{
   height: 20%;
   position: fixed;
   width: 100%;
+  top: 0;
 }
 .nav{
   display: flex;
@@ -43,6 +44,7 @@ body{
   justify-content: space-around;
   color: black;
   font-family: 'Noto Serif TC', serif;
+  flex-direction: column;
 }
 .navBarRight a{
   color: black;
@@ -128,7 +130,7 @@ body{
 }
 .projectsTitle{
   color: white;
-  background-color: rgb(32, 59, 93);
+  /* background-color: rgb(32, 59, 93); */
   font-family: 'Playfair Display', serif;
   font-size: 4rem;
   font-weight: 200;

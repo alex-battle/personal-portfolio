@@ -4,15 +4,17 @@ import Languages from './Languages';
 import HomeContact from './HomeContact';
 import Projects from './Projects';
 import HomeMainBanner from './HomeMainBanner';
+import Nav from './Nav';
 
-function Home(){
-    return(
+function Home() {
+    return (
         <div>
-            <HomeMainBanner/>
-            <HomeSecondBanner/>
+            
+            <HomeMainBanner />
+            <HomeSecondBanner />
             <Projects />
-            <Languages/>
-            <HomeContact/>
+            <Languages />
+            <HomeContact />
         </div>
     )
 }

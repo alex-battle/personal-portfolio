@@ -10,8 +10,8 @@ function ProjectThree() {
                 </div>
                  Uses React.js and Foursquare's API to search local bars by category and pull up 5-10 top bars. Sort them by Business name, address, hours on one page. Switching between different routes(Home page, bar type, list, and actual bar page). I built this in 3 days.
             <div className="projectLinks">
-                    <a href='https://bartap.surge.sh'>View Site</a>
-                    <a href='https://github.com/alex-battle/Bar-Tap'>Github</a>
+                    <a href='https://bartap.surge.sh' target="_blank">View Site</a>
+                    <a href='https://github.com/alex-battle/Bar-Tap' target="_blank">Github</a>
                 </div>
             </div>
             <div className="projectThree">

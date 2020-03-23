@@ -17,7 +17,7 @@ function HomeSecondBanner(){
             critical analysis, teamwork and project management 
             that help companies create an environment that focuses 
             on productivity and positivity. With my history as a 
-            real estate agent, I bring an unchallengeable drive and 
+            real estate agent, I bring an unmatched drive and 
             persistence with me as a self-starter as well as an equal 
             ability to add value as a team member whether it be a 
             large or small role. I am always looking for opportunities 

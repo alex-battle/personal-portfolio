@@ -10,6 +10,8 @@ function Nav(){
             <div className="navBarRight">
             <a href="/about">About Me</a>
             <a href="/projects">Projects</a>
+            {/* <NavLink to="/about">About Me</NavLink> */}
+            {/* <NavLink to="/projects">Projects</NavLink> */}
             </div>
         </div>
     )

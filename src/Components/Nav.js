@@ -5,7 +5,7 @@ function Nav(){
     return(
         <div className='nav'>
             <div className="navBarLeft">
-            <a href="/">Alex</a>
+            <a href="/">Alexander Battle</a>
             </div>
             <div className="navBarRight">
             <a href="/about">About Me</a>

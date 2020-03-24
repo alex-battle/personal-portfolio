@@ -17,7 +17,7 @@ function Projects(){
             <div className='projectlink'>
             {/* <Link to="/projects"> */}
             <a href="/projects">
-            <button type="button">Learn More</button>
+            <button type="button">More Projects</button>
             </a>
             {/* </Link> */}
             </div>

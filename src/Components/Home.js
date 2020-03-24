@@ -18,9 +18,6 @@ function Home() {
             <Projects />
             <Languages />
             <HomeContact />
-            <About />
-            <ProjectPage />
-            <Contact />
         </div>
     )
 }

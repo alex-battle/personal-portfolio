@@ -10,7 +10,7 @@ function AboutContact(){
             <a href="https://www.linkedin.com/in/alexander--battle/" target="_blank">
             <img src="https://img.icons8.com/nolan/32/linkedin.png"/>
             </a>
-            <a href="mailto:alexnder.battle@gmail.com?subject=JobOpportunity" target="_blank">
+            <a href="mailto:alexnder.battle@gmail.com?subject=Opportunity" target="_blank">
             <img src="https://img.icons8.com/nolan/32/gmail.png"/>
             </a>
             <a href="https://github.com/alex-battle" target="_blank">

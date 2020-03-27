@@ -102,10 +102,14 @@ body{
   font-size: 1.3rem;
   display: flex;
   align-items: center;
-  color: lightgray
+  color: lightgray;
+  
 }
+
+
+
 .aboutMeButtonHolder{
-  display: flex;
+  display: inline-flex;
   justify-content: center;
   margin-top: 1rem;
 }
@@ -364,16 +368,41 @@ margin-top: 4rem;
 .projectlink{
   margin-top: 1.5rem;
 }
-button{
+.aboutMeButton{
+  display: flex;
+  align-content: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  justify-content: center;
+}
+.projectButton{
+  margin-top: 2rem;
+}
+.button{
   background-color: black;
   color:white;
-  padding: 1rem;
-  border-radius: .5rem;
+  padding: .8rem;
+  /* border-radius: .5rem; */
   border-color: white;
   font-size: 1rem;
   font-family: 'Noto Serif TC', serif;
-  margin-bottom: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  border: solid 2px;
+  align-self: center;
+  transition: .9s;
 }
+.button:hover{
+  background-color:whitesmoke;
+  color: black;
+  transition-property: opacity, left, top, height;
+  transition-duration: 3s, 5s;
+  transition: all .35s ease-in;
+}
+  /* z-index: 1; */
+  /* animation: ease-in-out; */
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

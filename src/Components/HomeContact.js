@@ -7,16 +7,16 @@ function HomeContact(){
             Contact Me
             </div>
             <div className="contactLinks">
-            <a href="https://twitter.com/alexthedatadawg" target="_blank">
+            <a href="https://twitter.com/alexthedatadawg" className="twitter" target="_blank">
             <img src="https://img.icons8.com/nolan/64/twitter-squared.png"/>
             </a>
-            <a href="https://www.linkedin.com/in/alexander--battle/" target="_blank">
+            <a href="https://www.linkedin.com/in/alexander--battle/" className="linkedIn" target="_blank">
             <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
             </a>
-            <a href="mailto:alexnder.battle@gmail.com?subject=JobOpportunity" target="_blank">
+            <a href="mailto:alexnder.battle@gmail.com?subject=Opportunity" className="gMail" target="_blank">
             <img src="https://img.icons8.com/nolan/64/gmail.png"/>
             </a>
-            <a href="https://github.com/alex-battle" target="_blank">
+            <a href="https://github.com/alex-battle" className="gitHub" target="_blank">
             <img src="https://img.icons8.com/nolan/64/github.png"/>
             </a>
             </div>

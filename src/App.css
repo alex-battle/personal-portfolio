@@ -105,8 +105,58 @@ body{
   color: lightgray;
   
 }
+.qualifications{
+  height: 60rem;
+  color: white;
+  background-image: url('https://i.pinimg.com/564x/38/75/6a/38756a29f1877aa04957509c99485ab0.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+}
+.softSkills{
+  display: flex;
+  justify-content: center;
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 3rem;
+  padding-top: 6rem;
 
+}
+.qualificationCards{
+  display: flex;
+  flex-direction: column;
+  height: 50rem;
+}
+.qualificationsRowOne{
+  display: flex;
+  flex-direction: row;
+  margin-top: 6rem;
+}
+.qualificationsRowTwo{
+  display: flex;
+  flex-direction: row;
+  margin-top: 6rem;
 
+}
+.innovativeTitle, .creativeTitle, .somethingTitle{
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5rem;
+  text-align: center;
+}
+.innovativeDescription, .creativeDescription, .somethingDescription{
+  font-family: 'Noto Serif TC', serif;
+  text-align: center;
+  color: lightgray
+}
+.innovative, .creative, .somethingElse {
+  display: block;
+  height: 15rem;
+  width: 20rem;
+  justify-content: center;
+  margin-left: 4.5rem;
+}
+.innovative{
+}
 
 .aboutMeButtonHolder{
   display: inline-flex;
@@ -166,7 +216,7 @@ body{
 background-color: rgb(237, 237, 237);
 height: 30rem;
 display: flex;
-margin-top: 4rem;
+/* margin-top: 4rem; */
 }
 .techBanner{
   background-image: url('https://66.media.tumblr.com/96e553a421865c1126b2b1150633c8a0/tumblr_omjtpe2ovP1s59cxeo1_1280.jpg');

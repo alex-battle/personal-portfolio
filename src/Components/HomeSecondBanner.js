@@ -7,12 +7,12 @@ AOS.init();
 function HomeSecondBanner() {
     return (
         <div data-aos="fade-up"
-            // data-aos="fade-up"
+            // data-aos="fade-down"
             data-aos-offset="200"
             data-aos-delay="10"
-            data-aos-duration="500"
+            data-aos-duration="700"
             data-aos-easing="ease-in-out"
-            // data-aos-mirror="true"
+            data-aos-mirror="false"
             // data-aos-once="false"
             // data-aos-anchor-placement="top-center"
             > 

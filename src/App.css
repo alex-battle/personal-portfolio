@@ -132,11 +132,12 @@ body{
   display: flex;
   flex-direction: row;
   margin-top: 6rem;
+  margin-bottom: 1rem;
 }
 .qualificationsRowTwo{
   display: flex;
   flex-direction: row;
-  margin-top: 6rem;
+  margin-top: 6.5rem;
 
 }
 .innovativeTitle, .creativeTitle, .somethingTitle{
@@ -147,9 +148,10 @@ body{
 .innovativeDescription, .creativeDescription, .somethingDescription{
   font-family: 'Noto Serif TC', serif;
   text-align: center;
-  color: lightgray
+  color: lightgray;
+  margin-top: 1.5rem;
 }
-.innovative, .creative, .somethingElse {
+.analytical, .innovative, .creative, .somethingElse {
   display: block;
   height: 15rem;
   width: 20rem;

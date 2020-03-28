@@ -11,7 +11,7 @@ function ProjectTwo(){
                 </div>
             </div>
             <div data-aos="fade-left">
-                This is a replica Budget Car Rental app. By replica I mean new and improved. The is a desktop-first design provided by Ux team. My main goal was to duplicate Budget.com website and add eco-friendly options using Sequelize, Express and React.js. UX/UI Team (Bryn, Greg, Victoria) provided wireframes for me to follow to see to completion within a week.
+                This is a replica Budget Car Rental app. By replica I mean new and improved. The is a desktop-first design provided by Ux team. My main goal was to duplicate Budget.com website and add eco-friendly options using Sequelize, Express and React.js. UX/UI Team (Bryn, Greg, Victoria) provided wireframes for us to manage code and design to UX standards.
             </div>
             <div className="projectLinks">
                 <div data-aos="fade-up"

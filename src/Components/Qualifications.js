@@ -31,37 +31,37 @@ function Qualifications() {
                     <div className="qualificationsRowOne">
                         <div className="innovative">
                             <div className="innovativeTitle">
-                                Innovative
+                                Analytical & Strategic
                             </div>
                             <div className="innovativeDescription">
-                                lorme dalkjdklf nvuibnldi lkfvjklsb lakfj
-                                liufndkjnbfds akhlnkfdjhd dslakfjd;lkjf;dslkg;jgl akhlnkfdjhd
-                                fdklsvnf;lkj a;lkjf o;ireoi ajbkfs;oireja kjbdlfsbnlkbfao;ijre;oaijdnjkl
-                                jfa;dlkfajn  ioajergnrl l ufhlgihngl ihurgl iurhgrnr
+                            I have an "If there is a problem, I have a solution” attitude. 
+                            Detail-oriented and creative problem solver. 
+                            Intellectually curious, enjoy continuously solving problems. 
+                            An insatiable curiosity for new techniques and a razor-sharp eye for detail
+                            Examine, interpret, and articulate technical information to audiences of varying technical levels
                             </div>
                         </div>
                         <div className="creative">
                             <div className="creativeTitle">
-                                Creative
+                            Customer-focused
                             </div>
                             <div className="creativeDescription">
-                                ;ladkfjaldkfjadsiora;dkjfa;ldskfj;dslkvjkf;; ;kjvf;lsdkb;sofdj;klj
-                                ;dlkfad  a;djal;kjv;alfdkjbn;l  ;kladj ;lkjad;kla a;k ja; ad;ja a;kf
-                                a;dslkj ;kl dja;dlkfja l;nvla;kfji a ;ldkfa ; ;lja;lkfj a;dkjf;jadld;lfkan
-                                a;dlkfj; lka;j;vlnvl;fjdioa vjkl;fj ;jnf;lja a;dijf ;j ;ajkdfj ;oijbds ad
-                                ofungljsf ;jkaf; klnf;oij a;dij sdj
+                            Passionate for client success at all times.
+                            Understand the customer's needs, and establish the best solution that solves the customer's challenges.
+                            Loves to help others and enjoys building and maintaining client relationships.
+                            Assess customer requirements, resolve problems, anticipate future needs, and generally serving as the customer’s voice.
                             </div>
                         </div>
                         <div className="somethingElse">
                             <div className="somethingTitle">
-                                Something
+                                Collaborator
                             </div>
                             <div className="somethingDescription">
-                                ;ladkfjaldkfjadsiora;dkjfa;ldskfj;dslkvjkf;; ;kjvf;lsdkb;sofdj;klj
-                                ;dlkfad  a;djal;kjv;alfdkjbn;l  ;kladj ;lkjad;kla a;k ja; ad;ja a;kf
-                                a;dslkj ;kl dja;dlkfja l;nvla;kfji a ;ldkfa ; ;lja;lkfj a;dkjf;jadld;lfkan
-                                a;dlkfj; lka;j;vlnvl;fjdioa vjkl;fj ;jnf;lja a;dijf ;j ;ajkdfj ;oijbds ad
-                                ofungljsf ;jkaf; klnf;oij a;dij sdj
+                            I thrive on collaboration, working side by side with people of all backgrounds and disciplines.  
+                            Work closely with designers to take wireframes from conception to implementation.
+                            Strong communication skills combined with a commitment and proven ability to succeed within a fast-paced organization. 
+                            Partner with coworkers and management during the sales process to assist in developing account/opportunity strategies, planning and execution.
+
                             </div>
                         </div>
                     </div>
@@ -79,37 +79,38 @@ function Qualifications() {
                     <div className="qualificationsRowTwo">
                         <div className="innovative">
                             <div className="innovativeTitle">
-                                Innovative
+                                Self-Starter
                             </div>
                             <div className="innovativeDescription">
-                                lorme dalkjdklf nvuibnldi lkfvjklsb lakfj
-                                liufndkjnbfds akhlnkfdjhd dslakfjd;lkjf;dslkg;jgl akhlnkfdjhd
-                                fdklsvnf;lkj a;lkjf o;ireoi ajbkfs;oireja kjbdlfsbnlkbfao;ijre;oaijdnjkl
-                                jfa;dlkfajn  ioajergnrl l ufhlgihngl ihurgl iurhgrnr
+                                Proactive and will use excellent judgment when dealing with issues.
+                                passionate about implementing solutions that transform the norm. 
+                                Can effectively manage time and prioritize multiple responsibilities
+                                Detail-oriented with the ability to project manage, set priorities and stay organized when managing multiple client relationships.
+                                And an ability to work independently and get things done. 
+
                             </div>
                         </div>
                         <div className="creative">
                             <div className="creativeTitle">
-                                Creative
+                                Communication
                             </div>
                             <div className="creativeDescription">
-                                ;ladkfjaldkfjadsiora;dkjfa;ldskfj;dslkvjkf;; ;kjvf;lsdkb;sofdj;klj
-                                ;dlkfad  a;djal;kjv;alfdkjbn;l  ;kladj ;lkjad;kla a;k ja; ad;ja a;kf
-                                a;dslkj ;kl dja;dlkfja l;nvla;kfji a ;ldkfa ; ;lja;lkfj a;dkjf;jadld;lfkan
-                                a;dlkfj; lka;j;vlnvl;fjdioa vjkl;fj ;jnf;lja a;dijf ;j ;ajkdfj ;oijbds ad
-                                ofungljsf ;jkaf; klnf;oij a;dij sdj
+                            Strong overall interpersonal skills and a proven ability to manage multiple clients at once.
+                            Is a good listener and asks appropriate questions in order to better understand the goals and then formulate solutions to ensure success.
+                            Ability to build strong internal and external relationships and communicate effectively with peers within the organization.
+                            Good interpersonal, presentation, and persuasion.
                             </div>
                         </div>
                         <div className="somethingElse">
                             <div className="somethingTitle">
-                                Something
+                                Results-focused
                             </div>
                             <div className="somethingDescription">
-                                ;ladkfjaldkfjadsiora;dkjfa;ldskfj;dslkvjkf;; ;kjvf;lsdkb;sofdj;klj
-                                ;dlkfad  a;djal;kjv;alfdkjbn;l  ;kladj ;lkjad;kla a;k ja; ad;ja a;kf
-                                a;dslkj ;kl dja;dlkfja l;nvla;kfji a ;ldkfa ; ;lja;lkfj a;dkjf;jadld;lfkan
-                                a;dlkfj; lka;j;vlnvl;fjdioa vjkl;fj ;jnf;lja a;dijf ;j ;ajkdfj ;oijbds ad
-                                ofungljsf ;jkaf; klnf;oij a;dij sdj
+                            Constantly curious and looking for ways to improve, increase value and be an essential part of the team
+                            Stay on top of industry trends and competitive analysis.
+                            Comfortable with a fast-moving environment and can learn quickly.
+
+
                             </div>
                         </div>
                     </div>

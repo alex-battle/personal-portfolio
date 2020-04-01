@@ -1,4 +1,5 @@
 import React from 'react';
+import img from '../images/Estately.png'
 
 function Project1(){
     return(
@@ -24,9 +25,11 @@ function Project1(){
                     </div>
                 </div>
                 </div>
-            <div className="projectOne">
-                {/* <img   src='' */}
-            </div>
+                <div className="projectOneImage">
+                {/* <div data-aos="zoom-in-right"> */}
+                    <img src={img} height="500" width="600" />
+                {/* </div> */}
+                </div>
             </div>
     )
 }

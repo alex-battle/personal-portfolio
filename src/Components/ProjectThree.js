@@ -1,4 +1,5 @@
 import React from 'react';
+import img from '../images/Bartap.png'
 
 function ProjectThree() {
     return (
@@ -24,8 +25,10 @@ function ProjectThree() {
                     </div>
                 </div>
             </div>
-            <div className="projectThree">
-                ProjectPhoto
+            <div className="projectThreeImage">
+                {/* <div data-aos="zoom-in-right"> */}
+                    <img src={img} height="500" width="600" />
+                {/* </div> */}
             </div>
         </div>
     )

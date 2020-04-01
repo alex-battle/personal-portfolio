@@ -1,5 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
+import img from '../images/Estatelynew.jpg'
 
 function Projects(){
     return(
@@ -10,11 +11,11 @@ function Projects(){
             data-aos-easing="ease-in-out" 
             > 
         <div className="projects">  
-            <div className="projectBanner">
-                <div className="projectsTitle">
-                Projects
-                </div>
-            </div>
+            {/* <div className="projectBanner"> */}
+                {/* <div className="projectsTitle"> */}
+                {/* Projects */}
+                {/* </div> */}
+            {/* </div> */}
             <div className="featuredProjectDescription">
                 <div className="featuredProjectTitle">
                     Estate.ly
@@ -25,7 +26,7 @@ function Projects(){
             </div>
             </div>
             <div className="featuredProject">
-                ProjectPhoto
+                <img src={img} width="800" height="500"/>
             </div>
         </div>
         </div>

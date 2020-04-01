@@ -1,4 +1,5 @@
 import React from 'react';
+import img from '../images/Budget.png'
 
 function ProjectTwo(){
     return(
@@ -24,8 +25,8 @@ function ProjectTwo(){
                     </div>
                 </div>
             </div>
-        <div className="projectTwo">
-            ProjectPhoto
+        <div className="projectTwoImage">
+                    <img src={img} height="500" width="600" />
         </div>
         </div>
     )

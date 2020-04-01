@@ -4,6 +4,7 @@ import AboutBannerMain from './AboutBannerMain';
 import AboutMeDescription from './AboutMeDescription';
 import AboutContact from './AboutContact';
 import AboutResume from './AboutResume';
+import AboutLanguages from './AboutLanguages';
 
 
 function About(){
@@ -12,6 +13,7 @@ function About(){
             <AboutMeBanner/>
             <AboutBannerMain/>
             <AboutMeDescription />
+            <AboutLanguages />
             <AboutResume/>
             <AboutContact/>
             

@@ -328,6 +328,24 @@ flex-direction: row;
   padding-bottom: 5rem;
   font-size: 1rem;
 }
+.aboutLanguages{
+  color: lightgray;
+  font-family: 'Noto Serif TC', serif;
+  display: flex;
+  flex-direction: column;
+}
+.aboutLanguagesTitle{
+  display:flex;
+  font-size: 3rem;
+  justify-content: center;
+  font-family: 'Playfair Display', serif;
+  color: white;
+}
+.aboutLanguagesDescription{
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
 .aboutResume{
   color: lightgray;
   width: 100%;

@@ -52,27 +52,31 @@ body{
 }
 .mainBanner{
   width: 100%;
-  height: 35rem;
+  height: 32rem;
   padding-top: 10rem;
   color: white;
   display: flex;
   background-color: black;
 }
 .mainBannerTitle{
-  font-size: 8rem;
+  font-size: 2.5rem;
   font-family: 'Playfair Display', serif;
   display: flex;
-  align-self: center;
-  padding-left: 3rem;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 3rem;
+  margin-right: 3rem;
 }
 .mainBannerSub{
-  font-size: 4rem;
+  font-size: 2rem;
   font-family: 'Noto Serif', serif;
   display: flex;
-  text-align: right;
-  align-items:flex-end;
-  padding-right:3rem;
-  padding-bottom: 3rem;
+  flex-direction: column;
+  /* text-align: right; */
+  /* align-items:flex-end; */
+  /* padding-right:3rem; */
+  /* padding-bottom: 3rem; */
 }
 .homeSecondBanner{
   background-image: url('https://66.media.tumblr.com/dd94056aafbe370f2787e7d02b3bcf01/tumblr_oos9r3fvwZ1w0qmx4o1_1280.jpg');

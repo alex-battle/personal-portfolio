@@ -95,6 +95,7 @@ body{
   margin-bottom: 2rem;
   color: white;
   text-align: center;
+  text-shadow: 0px 0px 2px black;
 }
 .secondBannerDescription{
   margin-left: 5rem;
@@ -104,7 +105,7 @@ body{
   display: flex;
   align-items: center;
   color: lightgray;
-  
+  text-shadow: 0px 0px 2px black;
 }
 .qualifications{
   height: 60rem;
@@ -133,6 +134,7 @@ body{
   flex-direction: row;
   margin-top: 6rem;
   margin-bottom: 1rem;
+  
 }
 .qualificationsRowTwo{
   display: flex;
@@ -144,12 +146,14 @@ body{
   font-family: 'Playfair Display', serif;
   font-size: 1.5rem;
   text-align: center;
+  text-shadow: 0px 0px 2px black;
 }
 .innovativeDescription, .creativeDescription, .somethingDescription{
   font-family: 'Noto Serif TC', serif;
   text-align: center;
   color: lightgray;
   margin-top: 1.5rem;
+  text-shadow: 0px 0px 2px black;
 }
 .analytical, .innovative, .creative, .somethingElse {
   display: block;
@@ -461,8 +465,58 @@ flex-direction: row;
 }
   /* z-index: 1; */
   /* animation: ease-in-out; */
-
-@media (prefers-reduced-motion: no-preference) {
+  @media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+.navBar{
+  width: auto; 
+  background-color: white;
+  height: auto;
+}
+.homeSecondBanner{
+  height: auto;
+  width:auto;
+}
+.secondBannerDescription{
+  height: auto;
+  width: auto
+}
+.projectBanner{
+  height: auto;
+  width: auto;
+}
+.featuredProject{
+  width: auto;
+  height: auto;
+}
+.featuredProjectTitle{
+  width: auto;
+  height: auto;
+}
+.featuredProjectDescription{
+  width: auto;
+  height: auto;
+}
+.languages{
+  width: auto;
+  height: auto;
+}
+.qualificationsRowOne{
+  width: auto;
+  height: auto;
+}
+.innovativeDescription, .creativeDescription, .somethingDescription{
+  width:auto;
+  height: auto;
+}
+.about{
+  display: block;
+  width: auto;
+  height: auto;
+}
+}
+/* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
@@ -490,4 +544,4 @@ flex-direction: row;
   to {
     transform: rotate(360deg);
   }
-}
+} */

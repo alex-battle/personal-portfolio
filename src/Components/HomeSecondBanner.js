@@ -40,11 +40,7 @@ function HomeSecondBanner() {
                     </div>
                     <div className="aboutMeButton">
                         <a href='/about' className="button">Learn More</a>
-                    {/* <a href='/about'><button>Learn more</button></a> */}
                     </div>
-                {/* <div className="aboutMeButtonHolder">
-                <a href='/about'><button>Learn more</button></a>
-                </div> */}
             </div>
         </div>
     )

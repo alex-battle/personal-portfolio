@@ -8,7 +8,7 @@ import AboutResume from './AboutResume';
 
 function About(){
     return(
-        <div>
+        <div className="about">
             <AboutMeBanner/>
             <AboutBannerMain/>
             <AboutMeDescription />
